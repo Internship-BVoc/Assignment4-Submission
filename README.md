@@ -12,7 +12,7 @@ Using dataset_model.csv on Loan Application, build a Classification model to pre
  
   Refer : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 
-2. Using RandomForest Classifier - Perform the parameter tuning and list your best performance metrics on   
+2.Using RandomForest Classifier - Perform the parameter tuning and list your best performance metrics on   
   
   Precision ,Recall & F1 Score ,AUROC
 

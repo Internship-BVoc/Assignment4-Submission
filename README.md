@@ -5,7 +5,7 @@ Using dataset_model.csv on Loan Application, build a Classification model to pre
 
 -> Use innovative methods for Outlier handling & Missing Values Imputation.
 
--> Use Label Encoder as encoding technique on feature and perform 
+------Use Label Encoder as encoding technique on features , predict using below algorithms------
 
 1.Using Logistic Regression - Perform the parameter tuning and list your best performance metrics on - 
  
@@ -20,7 +20,7 @@ Using dataset_model.csv on Loan Application, build a Classification model to pre
   Refer : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
 
--> Use One hot Encoder as encoding technique on feature and perform 
+----- Use One hot Encoder as encoding technique on feature , predict using the below algorithms  ----
 
 3.Using Logistic Regression - Perform the parameter tuning and list your best performance metrics on - 
  

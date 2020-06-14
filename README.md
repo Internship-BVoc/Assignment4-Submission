@@ -1,5 +1,4 @@
 # Assignment4-Submission
-Prediction Model  submission
 
 Using dataset_model.csv on Loan Application, build a Classification model to predict Loan Status(Target Variable) :
 
